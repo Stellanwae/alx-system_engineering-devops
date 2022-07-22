@@ -7,6 +7,7 @@ while [ "$s" -lt 10]; do
 	if [ "$s" -eq 8 ]
 	then
 		echo "Hi"
+		echo "Best School"
 	fi
 	let s=s+1
 done
