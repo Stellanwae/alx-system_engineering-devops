@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Displays Best School Using until
-s=1
+s=0
 
 until [ $s -eq "10" ]; do
 	echo "Best School"
