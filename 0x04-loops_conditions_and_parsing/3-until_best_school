@@ -4,5 +4,5 @@ s=0
 
 until [ $s -gt "10" ]; do
 	echo "Best School"
-	(("i += 1"))
+	(("s += 1"))
 done
