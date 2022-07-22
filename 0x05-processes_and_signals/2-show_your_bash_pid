@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# bash script that displays lines containing bash
+#+ Don't use pgrep
+#+ third line of script must be shellcheck disable=SC2009
+
+ps axuf | grep "bash"
