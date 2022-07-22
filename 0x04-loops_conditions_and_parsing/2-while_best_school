@@ -2,7 +2,7 @@
 # Displays Best School using while loop
 s=0
 
-while [ $s < "10" ]; do
+while [ $s -lt "10" ]; do
 	echo "Best School"
 	(("s += 1"))
 done
