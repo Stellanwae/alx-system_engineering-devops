@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Displays Best School Using until
-s=0
 
-until [ $s -gt "10" ]; do
+s=0
+until [ "$s" -eq 10 ]; do
 	echo "Best School"
 	let s=s+1
 done
