@@ -2,11 +2,12 @@
 # Displays best school upto 9 then prints Hi
 
 s=0
-while [ "$s" -lt 10]; do
+while [ "$s" -lt 10 ]; do
 	echo "Best School"
 	if [ "$s" -eq 8 ]
 	then
 		echo "Hi"
+		echo "Best School"
 	fi
 	let s=s+1
 done
