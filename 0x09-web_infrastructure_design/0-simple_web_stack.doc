@@ -1,0 +1,21 @@
+###  Task 0
+## What is server?
+-	a computer program or device that provides a service to another computer program and its user, also known as the client
+## What is the role of a domain name
+-	Domain Names are used for different purposes, including application-specific naming, addressing, and in various networking contexts to establish: Simple identification of hostnames and hosts
+## What type of DNS record www is in www.foobar.com
+-	Cname
+## What is the role of the web server
+-	display website content through storing, processing and delivering webpages to users.
+## What is the role of the application server
+-	 to act as host (or container) for the user's business logic while What is the role of the databasefacilitating access to and performance of the business application.
+## What is the role of the database
+-	 database is typically involved in efficient data management.
+## What is the server using to communicate with the computer of the user requesting the website
+-	Does using HTTPS
+## SPOF
+-	A single point of failure (SPOF) is a potential risk posed by a flaw in the design, implementation or configuration of a circuit or system. SPOF refers to one fault or malfunction that can cause an entire system to stop operating.
+## Downtime when maintenance needed (like deploying new code web server needs to be restarted)
+-	Happens when the downtime period takes longer than anticipated because the server is dependent on one code base which is not available.
+## Cannot scale if too much traffic is coming
+-	When the domain points directly to the server therefore id doesn’t have a load balancer to handle increased loads. It therefore limits the number of users the website will be able to accommodate.
