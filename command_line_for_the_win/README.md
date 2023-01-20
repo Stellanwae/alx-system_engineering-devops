@@ -1,2 +1,2 @@
-## COMMAND FOR THE WIN
-- command for the win challenge in the site cmdchallenge.com
+#### COMMAND FOR THE WIN
+Challenge link: [command_line_for_the_win](https://cmdchallenge.com/)
