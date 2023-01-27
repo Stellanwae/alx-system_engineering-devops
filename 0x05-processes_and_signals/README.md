@@ -80,7 +80,7 @@ sylvain   4477  0.0  0.2  11120  1352 pts/0    S+   03:40   0:00              \_
 sylvain   4479  0.0  0.1  10460   912 pts/0    S+   03:40   0:00                  \_ grep bash
 sylvain@ubuntu$ 
 ```
-* Task 3*
+* Task 3
 ```
 sylvain@ubuntu$ ./3-show_your_bash_pid_made_easy
 4404 bash
@@ -91,7 +91,7 @@ sylvain@ubuntu$ ./3-show_your_bash_pid_made_easy
 sylvain@ubuntu$ 
 ```
 
-* Task 4*
+* Task 4
 
 Expected output
 
@@ -106,7 +106,7 @@ To infinity and beyond
 sylvain@ubuntu$ 
 ```
 
-* Task 5*
+* Task 5
 
 Expected output
 ```
