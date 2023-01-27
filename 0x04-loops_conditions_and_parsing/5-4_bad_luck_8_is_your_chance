@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#loop 10 iterations and three especific conditionals
+#loop 10 times in three conditions
 i="0"
 while [ $i -lt 10 ]
 do
