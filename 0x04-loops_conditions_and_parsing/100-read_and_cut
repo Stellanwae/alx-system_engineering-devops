@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#script that displays file content /etc/passwd
+
+i=0
+while [ $i -lt 2 ]
+do
+	cut -d ":" -f 1,3,6 /etc/passwd
+	((i++))
+done
