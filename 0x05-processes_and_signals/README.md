@@ -11,7 +11,7 @@ sylvain@ubuntu$ ./0-what-is-my-pid
 sylvain@ubuntu$
 ```
 
-*Task 1
+* Task 1
 
 Expected output
 
