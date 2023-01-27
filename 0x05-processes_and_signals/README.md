@@ -2,18 +2,18 @@
 ---
 These projects are written to know how to find and wirte a PID in bash OS
 
-* Task O*
+* Task O
 
-The output
+Expected output
 ```
 sylvain@ubuntu$ ./0-what-is-my-pid
 4120
 sylvain@ubuntu$
 ```
 
-*Task 1*
+*Task 1
 
-Output
+Expected output
 
 ```
 sylvain@ubuntu$ ./1-list_your_processes | head -50
@@ -72,7 +72,7 @@ sylvain@ubuntu$
 
 * Task 2*
 
-Output
+Expected output
 ```
 sylvain@ubuntu$ sylvain@ubuntu$ ./2-show_your_bash_pid
 sylvain   4404  0.0  0.7  21432  4000 pts/0    Ss   03:32   0:00          \_ -bash
@@ -129,3 +129,42 @@ Terminated
 sylvain@ubuntu$ 
 ```
 
+* Task 6
+
+Expected output
+
+```
+sylvain@ubuntu$ ./4-to_infinity_and_beyond
+To infinity and beyond
+To infinity and beyond
+To infinity and beyond
+To infinity and beyond
+To infinity and beyond
+To infinity and beyond
+To infinity and beyond
+To infinity and beyond
+To infinity and beyond
+To infinity and beyond
+To infinity and beyond
+Terminated
+sylvain@ubuntu$ 
+```
+
+* Task 7
+
+Expected output
+```
+sylvain@ubuntu$ ./7-highlander
+To infinity and beyond
+To infinity and beyond
+I am invincible!!!
+To infinity and beyond
+I am invincible!!!
+To infinity and beyond
+To infinity and beyond
+To infinity and beyond
+I am invincible!!!
+To infinity and beyond
+^C
+sylvain@ubuntu$ 
+```
