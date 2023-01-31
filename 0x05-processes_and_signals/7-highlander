@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# displays string indefinitely
+# shows string indefinitely
 
 trap "echo 'I am invincible!!!'" SIGTERM
 while true; do
