@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Bash script that pings an IP address
-#+ the script passes an argument
+#+ script passes an argument
 #+ accepts string as an argument
 #+ ping the IP 5 times
 if [ "$#" -eq 0]; then
