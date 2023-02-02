@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # Bash script that shows listening sockets
-#+ That shows the PID and name of prog the 
+#+ PID and name of program 
 #+ socket belongs to
 sudo netstat -lp
