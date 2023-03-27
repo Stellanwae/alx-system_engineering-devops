@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # create ssh keypair wuth the passphrase betty
 
-ssh-keygen -f school -b 4096 -N betty
+ssh-keygen -f school -b 4096 -t rsa -N betty
