@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 #run apache on hbtn school container
 
 echo "ServerName localhost" >> /etc/apache2.conf
