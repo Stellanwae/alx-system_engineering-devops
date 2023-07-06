@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # A bash script that enables port 80
-sed -i 's/8080/80/g' /etc/nginx/sites-enabled/default
+sed -i 's/listen.*ssl; *ssl_certificate/listen 80;listen 6666;listen 8888;listen 443 ssl;ssl_certificate/' nginx.conf
 service nginx start
