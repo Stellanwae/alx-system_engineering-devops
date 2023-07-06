@@ -2,4 +2,3 @@
 # A bash script that enables port 80
 sed -i 's/8080/80/g' /etc/nginx/sites-enabled/default
 service nginx start
-t
