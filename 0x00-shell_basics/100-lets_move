@@ -1,2 +1,2 @@
 #!/bin/bash
-mc *~ /tmp/u
+mv *~ /tmp/u
