@@ -1,3 +1,8 @@
 #!/usr/bin/env bash
 #print user
-sudo -u "$1" whoami
+if [ -n "$1" ]; then
+    whoami "$1"
+else
+    whoami
+fi
+
