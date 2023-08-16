@@ -5,8 +5,8 @@
 ### Tasks
 ---
 
-* **0.Sky is the limit, let's bring that limit higher**
-### [0-the_sky_is_the_limit_not.pp](./0-the_sky_is_the_limit_not.pp): Increases the amount of traffic that an Apache server can handle
+#### 0.Sky is the limit, let's bring that limit higher
+- [0-the_sky_is_the_limit_not.pp](./0-the_sky_is_the_limit_not.pp): Increases the amount of traffic that an Apache server can handle
 
-* **1. User limit**
-### [1-user_limit.pp](./1-user_limit.pp): Makes it possible to log in as `holberton` user and open a file without an error
+#### 1. User limit
+- [1-user_limit.pp](./1-user_limit.pp): Makes it possible to log in as `holberton` user and open a file without an error
