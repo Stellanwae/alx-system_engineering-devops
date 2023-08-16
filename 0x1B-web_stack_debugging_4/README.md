@@ -1,6 +1,6 @@
 # 0x1B. Web stack debugging #4
 ---
-<img src="https://github.com/Stellanwae/alx-system_engineering-devops/assets/99267699/c264e511-bf20-4921-9940-6346af07d49a" width="700" height="350">
+<img src="https://github.com/Stellanwae/alx-system_engineering-devops/assets/99267699/c264e511-bf20-4921-9940-6346af07d49a" width="1000" height="500">
 
 ### Tasks
 ---
